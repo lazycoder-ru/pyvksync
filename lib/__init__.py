@@ -1,0 +1,1 @@
+from vksync import vk_sync
